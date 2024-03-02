@@ -424,3 +424,14 @@ article .icon {
   /* target it specifically */
   height: 2.5rem;
 }
+
+/* footer */
+
+footer {
+  height: 26vh;
+  margin: 0 1rem; /* top,bottom and side*/
+}
+
+footer p {
+  text-align: center;
+}
